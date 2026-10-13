@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KolesnikB.iml" filepath="$PROJECT_DIR$/KolesnikB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/kolesnik/lab3/lab3.iml" filepath="$PROJECT_DIR$/src/main/java/kolesnik/lab3/lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/kolesnik/lab3/student.app/student.app.iml" filepath="$PROJECT_DIR$/src/main/java/kolesnik/lab3/student.app/student.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/kolesnik/lab3/student.model/student.model.iml" filepath="$PROJECT_DIR$/src/main/java/kolesnik/lab3/student.model/student.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/kolesnik/lab3/student.service/student.service.iml" filepath="$PROJECT_DIR$/src/main/java/kolesnik/lab3/student.service/student.service.iml" />
     </modules>
   </component>
 </project>
